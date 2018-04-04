@@ -54,7 +54,7 @@ BST: 0. 2 s
 Hash : 1. 0 s  
 > . / main  
 > 2  
-> wo rdTo Inse r t  
+> wordToInsert  
 BST: 0. 1 0 s  
 Hash : 0. 0 0 1 s  
 > . / main  
@@ -63,9 +63,9 @@ Hash : 0. 0 0 1 s
 BST: 0. 1 0 s  
 Hash : 0. 0 0 1 s  
 2  
-> . / main  
+> ./main  
 > 4  
-/ path / t o / output . t x t  
+/path/to/output.txt  
 BST: 0. 1 0 s  
 Hash : 0. 0 0 1 s  
 > . / main  
@@ -76,6 +76,6 @@ startWord
 . . .  
 endWord  
 . . .  
-po s siblyO the rW o rd s  
+possiblyOtherWords  
 BST: 0. 1 0 s  
 Hash : 0. 0 0 1 s  
